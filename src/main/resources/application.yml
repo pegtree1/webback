@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://pegfamtree.mysql.database.azure.com:3306/familybck
+    url: jdbc:mysql://pegfamtree.mysql.database.azure.com:3306/familytreepeg/familybck
     username: root1
     password: cometoeat@1
 
